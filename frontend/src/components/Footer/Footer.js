@@ -32,6 +32,25 @@ const Footer = () => {
                             </li>
                         </ul>
                     </div>
+                    <div className="footer__help__container">
+                        <div className="footer__help__header">
+                            <h1>Category</h1>
+                        </div>
+                        <ul className="fotter__help__links">
+                            <li className="help__link">
+                                <a href="/"> Men</a>
+                            </li>
+                            <li className="help__link">
+                                <a href="/">Women</a>
+                            </li>
+                            <li className="help__link">
+                                <a href="/">Kids</a>
+                            </li>
+                            <li className="help__link">
+                                <a href="/">Shop</a>
+                            </li>
+                        </ul>
+                    </div>
                     <div className="footer__contact__container">
                         <div className="footer__contact__header">
                             <h1>Contact Us</h1>
