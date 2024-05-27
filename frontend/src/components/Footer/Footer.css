@@ -135,3 +135,12 @@
     flex-direction: row;
     flex-wrap: wrap;
 }
+
+.footer__a__tag{
+    color: #58caec;
+    
+}
+
+.footer__a__tag > a{
+    color: #58caec;
+}

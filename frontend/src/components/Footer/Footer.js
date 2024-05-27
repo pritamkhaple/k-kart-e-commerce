@@ -76,6 +76,7 @@ const Footer = () => {
                         <li className="footer__copyright">©2022 K-Kart Ltd. |</li>
                         <li className="footer__terms__condition"> | Terms & Condition |</li>
                         <li className="footer__privacy__policy">| Privacy Policy</li>
+                        <li className="footer__a__tag">|| <a href='https://github.com/pritamkhaple/k-kart-e-commerce'>Code</a> </li>
                     </ul>
                      </div>
             </div>
