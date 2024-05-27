@@ -25,7 +25,7 @@ const WishCard = (props) => {
                 </IconButton>
             </div>
             <div className="wish__item__image">
-                <img src={`https://Shema-ecommerce.herokuapp.com/${props.item.category}/${props.item.image[0].filename}`} alt="item" className="wish__image"/>
+                <img src={`https://images.unsplash.com/photo-1626497764746-6dc36546b388?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8c2hpcnRzfGVufDB8fDB8fHww`} alt="item" className="wish__image"/>
             </div>
             <div className="wish__item__name">{props.item.name}</div>
             <div className="wish__item__price">${props.item.price}</div>

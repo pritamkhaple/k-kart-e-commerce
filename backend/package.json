@@ -1,7 +1,7 @@
 {
-  "name": "Shema Server",
+  "name": "Kkart Server",
   "version": "1.0.0",
-  "description": "Test Server for Shema",
+  "description": "Test Server for Kkart",
   "proxy": "http://localhost:3000/1 ",
   "main": "server.js",
   "scripts": {
